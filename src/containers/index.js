@@ -101,7 +101,7 @@ export default class App extends Component {
             || this.state.currentMenu === 'search' ||
             this.state.currentMenu === 'Logout') {
             return (
-                <View style={{ justifyContent: 'center', alignItems: 'center' }}>
+                <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
                     <Text>Hello</Text>
                 </View>
             );

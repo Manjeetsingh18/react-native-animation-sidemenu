@@ -6,4 +6,4 @@ export {
     Febmenu,
     Sidemenu,
     Slidemenu
-}
+};
